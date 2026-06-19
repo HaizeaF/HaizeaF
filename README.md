@@ -8,8 +8,6 @@
 
 </div>
 
-#
-
 ## About me
 
 I'm a 23 years old developer based in Spain. I love learning new things, whether they’re about programming or completely different subjects.
