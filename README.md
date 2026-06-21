@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm a 23 years old developer based in Spain. I love learning new things, whether they’re about programming or completely different subjects.
+I'm a 23 years old developer based in Spain. Curiosity drives me, whether it's exploring new technologies, understanding how things work, or diving into completely unfamiliar topics.
 
 ## Skills
 
