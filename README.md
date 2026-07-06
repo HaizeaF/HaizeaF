@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm a 23 years old developer based in Spain. Curiosity drives me, whether it's exploring new technologies, understanding how things work, or diving into completely unfamiliar topics.
+I'm a 23 years old developer based in Spain. Curiosity and creativity drive me.
 
 ## Skills
 
