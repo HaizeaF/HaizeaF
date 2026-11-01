@@ -1,16 +1,8 @@
 <div align="center">
   
-  # Hi, I'm Haizea!
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&color=F72E93&center=true&vCenter=true&lines=Full-Stack+developer;.NET+specialist;AI+%26+Big+Data)](https://git.io/typing-svg)
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haizea-franco-sayago-38791a22a/)
+  <img width="1584" height="396" alt="gh_banner" src="https://github.com/user-attachments/assets/9dc20758-dd3f-4e1e-89d8-dc3e04aca44d" />
 
 </div>
-
-## About me
-
-I'm a 23 years old developer based in Spain. Curiosity and creativity drive me.
 
 ## Skills
 
@@ -54,3 +46,6 @@ I'm a 23 years old developer based in Spain. Curiosity and creativity drive me.
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## Contact me
+[![Linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%23808080)](https://www.linkedin.com/in/haizea-franco-sayago-38791a22a/)
